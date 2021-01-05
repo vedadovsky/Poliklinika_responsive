@@ -784,10 +784,10 @@ footer
         width: 95% !important;
     }
     .navbar-default .navbar-toggle {
-        border-color: #0cb8b6;
+        border-color: white;
     }
     .navbar-default .navbar-toggle .icon-bar {
-        background-color: #0cb8b6;
+        background-color: white;
     }
 }
 
